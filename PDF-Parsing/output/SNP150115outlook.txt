@@ -1,0 +1,783 @@
+15 January 2015 
+SNP Schneider-Neureither & Partner is a research client of Edison Investment Research 
+Limited 
+SNP offers solutions that help enterprises to transform their ERP 
+(enterprise resource planning) systems. The group’s SNP Transformation 
+Backbone (T-B) software platform speeds up the process, reducing 
+consultant days and improving quality. The transformation market is large 
+and relatively young, and SNP is expanding into the US and broadening its 
+expertise across ERP systems. Further, it is expanding across the 
+transformation value chain with the proposed acquisition of RSP, a 
+specialist German management consultancy. Hence, with momentum 
+strong and consultant utilisation close to full, we believe there is excellent 
+potential for both revenues and margins to grow faster than expected.  
+Year end Revenue 
+(€m) 
+PBT* 
+(€m) 
+EPS* 
+(c) 
+DPS 
+(c) 
+P/E 
+(x) 
+Yield 
+12/13 23.5 (2.8) (64.7) 8.0 N/A 0.6 
+12/14e 31.1 1.6 29.1 10.0 48.0 0.7 
+12/15e 35.2 3.6 67.4 20.0 20.8 1.4 
+Note: *PBT and EPS are normalised, excluding amortisation of acquired intangibles, 
+exceptional items and share-based payments. 
+Investment case: Huge transformation opportunities  
+SNP’s T-B is the only off-the-shelf software solution that automates the process of 
+combining, upgrading, or carving out data from ERP systems. T-B improves the 
+transformation quality and is the only solution that has been accredited by both 
+E&Y and PwC, which means it can significantly reduce auditing costs. ERP 
+landscapes grow more complex over time, partly driven by M&A, and there is an 
+ongoing requirement for companies to improve/upgrade their systems. SNP’s focus 
+has been on SAP (26% of the ERP software market), but recently it has expanded 
+to Oracle (12% market share) through the acquisition of GL Consulting and a key 
+focus is to broaden T-B’s capabilities to handle any-to-any transformations.  
+Q3 results and forecasts: Guidance maintained 
+After a challenging FY13, SNP’s sales and marketing functions were reorganised, 
+and 9m14 revenue jumped 41.1% to €22.5m while operating profit recovered to 
+€0.6m from a €3.0m loss. Q4 is traditionally the busiest quarter, and SNP has a 
+high order backlog and healthy pipeline. Hence, it maintained its guidance of 
+c €30m revenue and mid-single-digit EBIT margin. Our forecasts, which do not yet 
+include RSP, are for revenue to rise 32% to €31.1m in FY14, and by 13% to €35.2m 
+in FY15. We forecast margins to recover to 5.2% in FY14 and to 10.3% in FY15. 
+We forecast net cash to rise to €3.8m at end FY14, lifting to €5.8m a year later.  
+Valuation: Pace of margin recovery could surprise 
+The stock trades on 48.0x our FY14 EPS, falling to 20.8x in FY15, though we note 
+margins will still be less than half the FY09 peak on our forecasts. The valuation 
+looks attractive given the strong earnings growth prospects and the potential for 
+both revenues and margins to rise faster than expected. Our DCF model (WACC of 
+12%) values the shares at €15.03, or 7% above the current share price. 
+SNP Schneider-Neureither & Partner Initiation of coverage 
+ERP software transformation experts 
+Price €14.0 
+Market cap €52m 
+Net cash (€m) at 30 September 4.0 
+Shares in issue 3.7m 
+Free float 60.4% 
+Code SHF 
+Primary exchange Frankfurt 
+Secondary exchange N/A 
+Share price performance 
+% 1m 3m 12m 
+Abs 6.6 14.5 20.6 
+Rel (local) 4.2 2.9 17.2 
+52-week high/low €14.95 €10.30 
+Business description  
+SNP Schneider-Neureither & Partner (SNP) is a 
+software and consulting business focused on 
+supporting customers in implementing change, and 
+rapidly and economically tailoring IT landscapes to 
+new situations. It has developed a proprietary 
+software product called SNP Transformation 
+Backbone (T-B). 
+Next events 
+Q4 results 30 January 2015 
+Annual report 2 April 2015 
+Analysts  
+Richard Jeans +44 (0)20 3077 5700 
+Katherine Thompson +44 (0)20 3077 5730 
+tech@edisongroup.com 
+Edison profile page 
+Software & comp services 
+SNP Schneider-Neureither & Partner | 15 January 2015 2 
+Investment summary: Greater emphasis on software 
+Company description: ERP transformation experts 
+Founded in 1994 and headquartered in Heidelberg, Germany, SNP specialises in helping 
+businesses tailor and improve their ERP landscapes. The group has two operational segments: 
+Professional Services (74% of FY14e revenues), which offers consultancy and training services to 
+this effect, and Software (26% of FY14e revenues), which includes the only off-the-shelf 
+transformation product in T-B. T-B has been developed on the back of the experience of more than 
+2,500 projects, including from GL Consulting, a US business focused on Oracle transformations, 
+which was acquired in August 2013. Customers include blue-chip names such as Siemens, 
+ThyssenKrupp, E-ON and Porsche. SNP went public in 2000, listed on the General Standard 
+segment of the Frankfurt Stock Exchange in 2003 and the Prime Standard since August 2014. 
+Financials: Strong history of growth and profitability 
+SNP has a strong track record of delivering growth and profitability, with operating margins reaching 
+23.4% in FY09. The group’s flagship software platform, T-B, was launched in August 2009. 
+However, margins fell back, due to the expiration of an agreement with SAP in 2012, increased 
+investment in the group’s internationalisation strategy and slower than expected growth in T-B, 
+which also led to low consultancy utilisation rates. SAP had been licensing SNP Data Distillery (now 
+DPM), and this represented the bulk of SNP’s software sales up to FY12. The group’s sales and 
+marketing departments were restructured in FY13 and the management team has been refreshed 
+with a new CFO and a COO role. The focus now is to boost revenues, both organically and through 
+acquisitions. The main organic strategies are to drive high-margin software sales, both directly and 
+via a partner network, and develop the any-to-any strategy.  
+Exhibit 1: Operating profit and margin trends 
+Source: SNP (historicals), Edison Investment Research (forecasts) 
+Sensitivities: High exposure to SAP products 
+Cost-reduction measures and investment freezes for IT projects by customers can lead to project 
+delays and/or cancellations. Nevertheless, we note the resilience of the business in the years 
+following the financial crisis, which partly reflects the ongoing requirement for transformation 
+projects regardless of the economic backdrop. The success of SNP products and services has 
+been linked to the success of SAP, though SNP is broadening its offerings to cover Oracle solutions 
+and others. Software sales cycle can be long and lumpy. The loss of key personnel is a significant 
+risk. Competition for skilled IT professionals could lead to shortages, as is currently the case. 
+Revenues Operating profit margin
+SNP Schneider-Neureither & Partner | 15 January 2015 3 
+Valuation: Attractive DCF valuation on conservative inputs 
+The stock trades on 48.0x our FY14 EPS, falling to 20.8x in FY15 and to 14.6x in FY16. However, 
+the drive to push high-margin software suggests operating margins could potentially rise to 20%+ in 
+the medium term (our FY16 margin forecast is 13.5%). Also, we note the group has a strong 
+balance sheet with a net cash position. Our DCF model (which assumes a conservative WACC of 
+12% and a long-term margin of 18.4%) values the shares at €15.03, or 7% above the current share 
+price, while our DCF scenario analysis (see Exhibit 8) suggests significant upside potential. 
+Company description: ERP transformation experts  
+SNP helps enterprises to tailor and optimise their ERP systems, through its proprietary software 
+products and related consultancy services and training. T-B, which is coded in SAP’s ABAP 
+language, is the world’s first software solution that automatically analyses changes in ERP systems 
+and implements transformations in a standardised way. M&A activity is a driver, as ERP systems of 
+acquired businesses will typically be integrated with the acquirer’s IT system, while data of 
+disposed businesses need to be “carved out”. As ERP systems are highly complex with each 
+installation customised for the user’s specific requirements, it is a highly complex process to 
+combine or carve out these systems. SNP has focused on SAP transformations (SAP dominates 
+ERP systems in Europe), while the acquisition of US-based GL extends the group’s expertise to 
+Oracle transformations. We note that GL’s revenues exceeded $5m in FY12. Further, having 
+licenced SAP Data Services (a software tool for moving and managing data) for incorporation into 
+T-B, SNP can now offer any-to-any capabilities to a degree. The main business model is a project 
+licence, where the T-B software is sold specifically for the project along with consultant man days. 
+SNP also sells perpetual licences, along with 18% ongoing maintenance revenues, and the 
+customer can operate the software themselves (SNP has a training academy), or SNP can sell 
+projects on top. 
+Strategy 
+The plan is to develop T-B into an industry standard, with the ability to handle any-to-any 
+transformations. The development roadmap’s initial plans are to build Oracle to SAP 
+transformations directly into T-B, which will significantly improve the efficiency of Oracle to SAP 
+transformations. This will involve a middleware solution running between T-B and the group’s 
+Oracle product, which was acquired with GL, and the development of predefined routines. One 
+interesting aspect is that SAP itself is precluded from undertaking Oracle to SAP transformations 
+following the Tomorrow Now legal case. Other iterations (eg, SAP to Oracle, or involving other ERP 
+systems) will be added in due course. SNP is planning to expand into strategic consulting (eg, 
+advising customers on the process of defining transformation projects) where day rates are typically 
+20% higher than standard consulting work. The group also plans to further expand its sales force.  
+SNP has traditionally focused on the “DACH” German speaking region in Europe, which generated 
+86.4% of FY13 revenues, down from 92.4% in FY12 and 100% in FY06. The group has focused on 
+SAP-to-SAP transformations, as c 80% of big companies in Europe use SAP systems. SNP is now 
+seeking to expand geographically more aggressively, to take advantage of the growing global 
+transformation market. SNP acquired GL Consulting in August 2013, for c $5m including a c $2m 
+earnout, which remains on the balance sheet at a reduced amount of c €1.1m. GL offers consulting 
+services and a software-based approach to Oracle ERP transformations. Management is on the 
+lookout for other selective acquisitions that add to the product offerings, tap new markets or gain 
+technical expertise. The GL acquisition is important for the following reasons:  
+ It accelerates the group’s entry in the US through an established company. 
+ There are cost synergies by merging with SNP America. 
+SNP Schneider-Neureither & Partner | 15 January 2015 4 
+ It strengthens the strategy for US and Asia, as Oracle is strongly represented there. 
+ It is a key part of the group’s any-to-any strategy. 
+GL has developed software enabling its consultants to conduct transformations for Oracle 
+applications. The Java-based transformation tool supports all common transformation scenarios 
+such as splits, mergers and harmonisations. It works at database level and can master simple to 
+complex mapping. In the same way as with T-B, the predefined content – ie the contained 
+knowledge of the internal structures of the Oracle systems – is an important component of the 
+software. The software is currently being integrated into T-B, by utilising middleware.  
+We note that in the US and Asia, it is unusual to encounter pure SAP installations while Oracle or 
+another application is often the leading ERP system. As such, the ability to conduct transformations 
+for and between these applications in any direction is extremely important for ensuring successful 
+growth in these markets and will open up a substantial market potential for SNP. 
+Intention to acquire RSP Reinhard Salaske & Partner Management Consultants GmbH 
+In mid-December, SNP announced that it is seeking to acquire RSP Reinhard Salaske & Partner 
+Management Consultants (RSP). The proposed acquisition reflects management’s stated desire to 
+expand into high-level management consulting. 
+The acquisition is subject to the conclusion of a final purchase agreement and various approvals. 
+Details relating to the proposed purchase price have not been disclosed, although SNP has said 
+the transaction will be financed largely by debt. The transaction is expected to complete in January 
+2015. We will include the acquisition in our forecasts after the deal has completed.  
+Headquartered in Wiehl near Cologne, Germany, RSP is an IT service provider and management 
+consultancy firm. It advises and supports companies with SAP introduction projects and on 
+optimising their business processes through the use of suitable IT systems and applications. In 
+addition to SAP, RSP’s service and consultancy scope also covers the technology and software 
+platforms QlikView, Java, Microsoft and Sybase. RSP operates predominately in Germany and 
+services customers across a wide range of sectors. Customers vary in size from large enterprises 
+(eg ABB, Daimler, Deutsche Telekom, Siemens) through to Mittelstand companies. In the year to 
+December 2014, RSP is expected to generate revenues of more than €11m. RSP has c 70 
+employees and also actively uses freelancers. 
+The acquisition of RSP would expand the group’s range of strategy- and process-related 
+consultancy services, while also significantly extending its value chain in the corporate 
+transformation market.  
+New OEM partnership with SAP 
+In late December 2014, SNP announced a new commercial agreement with SAP whereby SNP is 
+now licencing SAP’s transformation product, SAP Landscape Transformation (SAP LT). SNP is now 
+able to offer T-B with SAP LT. SNP T-B already significantly extends SAP LT functionality for SAP to 
+SAP transformations. Furthermore, the move helps SNP to pursue its long-term plan to focus on 
+enabling customers to migrate from any ERP-system. SNP says that more details will be provided 
+with the further development of the partnership with SAP.  
+Group structure  
+SNP’s headquarters are in Heidelberg, which includes the group’s R&D activities, and, interestingly, 
+is a short distance from SAP’s HQ in Walldorf. As at 30 September 2014, the group had 261 
+employees, including 37 in software development, 139 consultants and 22 sales people. SNP’s 
+consulting legal entity is in Thale, central Germany, where c 60 consultants are based. There are 
+c 30 employees in Austria, c 25 in the US and a salesperson in each of Switzerland and South 
+Africa. There are four people based in a Spanish near-shore facility that was established in early 
+SNP Schneider-Neureither & Partner | 15 January 2015 5 
+2014 and SNP plans to increase the Spanish headcount significantly. The Spanish consultants are 
+lower cost, speak English and also are useful in dealing with Central/South American customers. 
+Recruiting experienced consultants in the German market is currently challenging, and SNP has 
+opened a new training centre in Magdeburg, Eastern Germany, to help to alleviate the shortage. It 
+currently has 10 trainees on this programme.  
+SNP has historically operated as a SAP consulting company. However, it began to develop 
+specialist software solutions around the experience gained by its consultants in the field and has 
+been evolving to look more like a traditional software business, ie, with its own proprietary software 
+and a related professional services unit. The group has two reporting segments: Professional 
+Services (74% of FY14e revenues), which still generates the bulk of group revenues through 
+consultancy services, along with some modest revenues from training services, and Software (26% 
+of FY14e revenues), which includes the only off-the-shelf transformation product in T-B. 
+SNP Transformation Backbone (T-B) is the group’s flagship product and generates c 70% of 
+software revenues. SNP Data Provisioning & Masking (DPM) (c 20% of software revenues) helps 
+companies to reduce development and transformation processes significantly by creating more 
+cost-effective test and training scenarios. It is a component of T-B and is also sold as a separate 
+module. SNP Dragoman (c 10% of software revenues) is a translation tool that automates and 
+simplifies the translation process, and is particularly useful for international projects where a large 
+number of texts need to be transferred into other languages. SNP Business Process Analysis 
+(BPA) is a new java-based visualisation tool that analyses, documents and compares business 
+processes in SAP software. BPA is expected to be extended to other ERP software. 
+Training services: Courses are offered to customers (especially those that are sensitive about 
+data and prefer to run the software themselves) and partners (so they can run the software for their 
+own customers). The training can be carried out at the in-house SNP Academy in Heidelberg or at 
+customers’ premises. Courses cover SNP Transformation Backbone, SNP Business Landscape 
+Transformation, SNP Business Landscape Management, SNP Dragoman and also SAP Solution 
+Manager.  
+Routes to market 
+SNP currently has 22 sales people, one in pre-sales and 10 in marketing. The sales process 
+typically targets the IT department or CFO. The Dragoman translation product is a simple product 
+with short sales cycles, sold via telesales, and helps to find higher-value transformation 
+opportunities. The new BPA analytics product is also intended to drive transformation opportunities. 
+SNP attends a number of industry events and in October 2014, SNP held its first significant 
+customer conference, which c 80 customers attended.  
+In addition to its own sales team, SNP works closely with independent partners in marketing its 
+services and product portfolio. Following the launch of T-B in 2009, it initiated a partner and 
+licensing programme, which has since been continuously expanded and developed, and the group 
+currently has more than 40 partners (18% of FY13 revenues), which include several large 
+enterprises (eg Accenture, Hewlett-Packard and IBM) as well as a range of small players. Through 
+its partners SNP aims to expand its core business both domestically and internationally, especially 
+in regions where the group has no sales infrastructure, such as in the Nordic region and the UK.  
+What is ERP transformation? 
+Growing companies accumulate ERP systems through acquisitions and expansion into new regions 
+and business lines, and, over time, large corporations can find themselves burdened with some 15 
+to 20 ERP systems or even more. Hence, ERP landscapes can eventually become unmanageable 
+and the nature of ERP projects from a consulting perspective naturally shifts from implementing 
+SNP Schneider-Neureither & Partner | 15 January 2015 6 
+new systems to landscape transformations. Transformation projects are among the most critical, 
+complex and expensive programs that affect an organisation and its business processes. 
+Transformations can be driven by business factors (mergers/acquisitions, disposals or 
+restructurings) or technology (consolidation, upgrades/platform migration or data harmonisation).  
+SNP Transformation Backbone (T-B) 
+T-B takes the user right through the transformation process. A typical T-B project begins with SNP 
+Systems Scan, which enables a systematic analysis of company structures to help to tailor the 
+project. The next stage involves SNP Analysis, which analyses, compares and interprets the 
+business processes, key configuration and components in order to plan the transformation. SNP 
+Cockpits comes in at the design phase, guiding the user through the project. Finally, SNP Execution 
+provides a speedy, automated, controlled and transparent generation and execution of the 
+transformation program.  
+Exhibit 2: A transformation project using SNP Transformation Backbone 
+Source: SNP 
+Predefined routines are available for a number of common scenarios such as system consolidation 
+(mergers/acquisitions), carve outs (disposals), chart of accounts restructuring (data harmonisation), 
+legacy migration (can require Dragoman for translation) and platform migration (ERP upgrade, can 
+require Data Provisioning & Masking for scenario analysis). 
+A conventional or classic transformation 
+A classic transformation project will involve a large amount of manual processes and tailored 
+programming and is typically based around MS Excel and MS Project. Consequently it will be less 
+flexible and transparent than the standardised SNP software-based solution and with a greater risk 
+of missing deadlines. While operational data (master data, open items and balances) are 
+preserved, data history is typically lost. The classic approach can make use of tools that have been 
+developed on previous projects or are available in the market such as SAP Data Services. 
+Nevertheless, the approach typically requires significantly more consultant man days and time on 
+tool development, while the software usage is much lower, and hence the project will take much 
+longer and there is a greater risk of human error. 
+Key advantages of the SNP Transformation Backbone software 
+ It speeds up projects. Eg, a team working on a “carve out” could complete a T-B-based project 
+in two to four months rather than the three to six months it would take to do manually. 
+ It reduces cost by reducing consultant man days. 
+ It improves the quality of the transformation, so much so that SNP Transformation Backbone is 
+the only software that is certified by both EY and PwC. This means that in using the software, 
+companies can significantly reduce their auditing costs. SNP software is certified according to 
+IDW (Institute of Public Auditors in Germany) standards. 
+ It preserves the data history (manual projects typically do not).  
+ It minimises business disruption.  
+The precise benefits depend on the type of project; there is high variability. 
+The enterprise resource planning (ERP) software market 
+ERP software provides an end-to-end information management solution for an enterprise, and can 
+be used by all departments to manage the information. Solutions are typically modular, so that 
+SNP Schneider-Neureither & Partner | 15 January 2015 7 
+enterprises can purchase only the specific modules they require. Each ERP installation is normally 
+highly customised, fundamentally unique, and hence any transformation project will be complex.  
+The worldwide ERP software market grew 3.8% to $25.4bn in 2013 (Gartner), from $24.4bn in 
+2012. SAP retained its market leadership position, selling $6.1bn in ERP software in 2013, up from 
+$6bn in 2012. Oracle (includes PeopleSoft, JD Edwards and Fusion brands) was second with 
+$3.2bn in sales, down 0.2% from 2012. The shift to the cloud is a major trend, with 2% of 
+respondents from a global survey conducted by Gartner already using cloud ERP software and a 
+further 47% of organisations surveyed planning to move their core ERP systems to the cloud within 
+five years. This trend should drive further demand for ERP transformations and consultancy 
+services. However, shifting to the cloud is also likely to reduce the need for such heavy 
+customisation. We also note that many enterprises might prefer to keep mission critical functions off 
+the cloud, within their firewalls, or perhaps in the private cloud. 
+Exhibit 3: ERP software market shares  
+Source: Gartner 
+M&A: M&A activity is clearly an important driver in ERP transformation, though we note there are 
+other factors that can complicate an enterprise’s ERP landscape, such as organic expansion into 
+new regions and business lines, while corporate restructurings and spinoffs can be common in any 
+economic backdrop. Exhibit 4 shows that global M&A activity in the first nine months of 2014 was 
+similar to 2006 levels on an annualised basis. 
+Exhibit 4: Global M&A activity 
+Source: Mergermarket. Note: 2014 is for the first nine months. 
+Competitive environment 
+SNP competes with a range of businesses, which we put in the following three categories: 
+1. SAP has its own unit, System Landscape Optimization Services, with c 300 consultants who 
+work on transformation projects. 
+Oracle
+Sage
+Infor
+Microsoft
+Kronos
+Concur (acquired by 
+SAP)
+Totvs
+2%Yonyou
+Others
+illi
+SNP Schneider-Neureither & Partner | 15 January 2015 8 
+2. Large systems integrators, including Accenture, HP and IBM. These companies are also 
+partners of SNP. 
+3. Small specialist firms. In Germany this includes three quoted companies All for One Steeb, 
+KPS and Realtech. MHP, a unit of Porsche, is also a competitor and SNP partner. Some of 
+these companies are also partners of SNP.  
+In our view, the ongoing development of SNP’s T-B platform, combined with its strong domain 
+knowledge of ERP systems gained through more than 2,500 projects, significantly increases 
+barriers to entry into the transformation software market. T-B is the only end-to-end tool that we are 
+aware of and SNP’s competitors use higher levels of manual processes associated with the classic 
+approach or they might well license the T-B platform.  
+Financials: Reverting to a strong growth trend 
+Business model: Direct and via partners 
+The group sells its software both directly and through its partner programme (40+ partners). The 
+business is typically H2 weighted, due to software sales in Q4. Typically 46% of revenues are in H1 
+and 54% in H2, including 29% in Q4. 
+The consultant utilisation rate dipped to c 60% at the low point in 2013, but more recently has been 
+close to 100% due to strong demand for T-B and the group’s related professional services. Around 
+70% of consultancy work is done remotely. SNP makes use of freelancers when demand is high. 
+There are three business models: 
+1. Project based, which is the most common. These are typically ad-hoc projects, normally priced 
+at €100-200k, of which 20-30% of the project is software. A typical project is three to six months 
+and there are no support and maintenance revenues with a project licence. 
+2. Perpetual licence plus 18% pa support and maintenance. The customer runs the software. 
+Examples are Siemens and EON. The licence depends on how the deal is structured. Some 
+customers prefer to run the software, as they are sensitive about their data. 
+3. SNP sells the software platform and sells projects on top – project by project – along with 18% 
+annual support and maintenance.  
+For projects, revenue recognition is based on the percentage of completion method. Two strategic 
+objectives are to encourage customers to take a group licence and to accelerate software sales via 
+the partner programme; SNP would like its partners to use T-B to transform all their customers. 
+Recent fund-raising 
+In December 2012, SNP placed 113,270 bearer shares with institutional investors at €45 each (pre-
+split), raising €5.1m to provide funds for both organic growth and potential acquisitions. SNP 
+subsequently split it shares in 2013, on a three for one basis, ie, two new shares were allotted for 
+each existing share. 
+Q3 results: Guidance maintained for FY14 
+FY13 was a transitional year for the business; 9m14 revenue jumped 41.1% to €22.5m and 
+operating profit recovered to €0.6m from a €3.0m loss. Software sales grew by 73% to €5.5m, as T-
+B generated €3.4m (9m13: €2.4m), or 62% (9m13: 75%) of total software revenue while DPM 
+generated €0.8m (9m13: €0.1m). Professional services revenues rose by 33% to €17.0m, reflecting 
+high utilisation rates in the DACH region. The growth across both divisions follows a refocusing on 
+the sales pipeline, after the group’s sales and marketing functions were reorganised in 2013. Also, 
+two big projects with Siemens were completed in FY12, and significant changes in the sales team 
+meant the pipeline slackened and the consultant utilisation rate subsequently fell in FY13. However, 
+SNP Schneider-Neureither & Partner | 15 January 2015 9 
+SNP has the opposite problem now, with utilisation close to 100% and a strong backlog and 
+pipeline.  
+At the time of the Q3 results in October, management maintained its FY14 guidance of c €30m 
+revenue and an EBIT margin in the mid-single-digit range, and forecast a strong Q4 “on the back of 
+the high order backlog and the advanced negotiations on the sale of software licences”. We note 
+that Q4 is traditionally the busiest quarter, mainly due to elevated software licence sales.  
+In Q2, SNP acquired the remaining 15% shareholding in its Austrian unit for €0.5m. This removes 
+the group’s only outstanding non-controlling interest. As at 30 September, the group has €6.4m in 
+cash and €2.4m debt, for a net debt position of €4.0m. In addition, there is a c €1.1m earnout 
+liability for GL Consulting, implying an adjusted net cash position of €2.9m. 
+Forecasts 
+We forecast group revenues to rise 32% to €31.1m in FY14, and then by 13% to €35.2m in FY15. 
+We forecast margins to recover to 5.2% in FY14, rising to 10.3% in FY15. We forecast net cash to 
+rise to €3.8m at end FY14, lifting to €5.8m a year later (or €4.7m when adjusted for the earnout).  
+We note that the company effectively unbundles projects in order to report professional services 
+and software as separate divisions, and we have done the same in our forecasts. 
+We have not yet included the proposed acquisition of RSP in our forecasts, due to the lack of 
+information and uncertainties around the deal. We will adjust our forecasts for the acquisition after it 
+has completed.  
+Professional services revenues/margins. We assume the average number of consultants rises 
+by 10 per year over the next few years, while the rate per day edges higher as the group expands 
+into higher value consulting. We assume a 90% utilisation rate in FY14 and FY15, easing back to 
+85% in the longer term. We assume a 5% contribution margin in FY14, rising to 8% in FY15, and 
+10% in the long term. This is conservatively below the historical peak of 13.7% in FY09. We 
+assume modest revenues from training, growing at 2% per annum. In all, professional services 
+revenues rise by 23% to €23.1m in FY14 (ie, €6.1m in Q4 for 3% growth over Q413).  
+Exhibit 5: Professional services assumptions 
+  2014e 2015e 2016e 2017e 
+Average number of consultants 140 150 160 170 
+Growth (%) 0 7.1 6.7 6.3 
+Rate per day (€) 1,000 1,020 1,040 1,061 
+Growth (%) - 2 2 2 
+Days per month (100% utilisation) 15 15 15 15 
+Average utilisation rate (%) 90 90 88.3 86.7 
+Full days per year 162 162 159 156 
+Consultancy revenues (€000s) 22,680 24,786 26,468 28,143 
+Training services 400 408 416 424 
+Growth (%) - 2 2 2 
+Total professional services revenues (€000s) 23,080 25,194 26,884 28,568 
+Source: Edison Investment Research 
+Software revenues/margins. We assume software revenues (licences and maintenance) jump to 
+€8m in FY14, implying €2.5m revenues in Q4 (93% growth over Q413). We assume this grows by 
+25% in FY15 and another 10% in FY16. We assume a 35% contribution margin in FY14, rising to 
+42.5% in FY15, and 60% in the long term. The rise reflects the benefits from the relatively fixed 
+R&D costs (€4.3m in FY13), and would take the margins back to similar levels as in FY10/FY11. 
+Central costs. We assume “non-segment-related expenses” of €2.6m in FY14, rising 10% in FY15. 
+We assume €0.2m of “other operating income & other taxes”, which relates to a wide range of 
+minor factors including insurance, provision reversals and capital gains.  
+SNP Schneider-Neureither & Partner | 15 January 2015 10 
+Tax. We assume an effective tax rate of 30% (noting the tax rates of Germany 30%, Austria 25%, 
+US 35%), with a cash tax rate of 28%.  
+Cash flow and balance sheet. The group had €3.5m net cash as at 31 December 2013. We 
+forecast free cash flow of €1.1m in FY14, rising to €2.4m in FY15. We forecast net cash to rise to 
+€3.8m at the end of FY14, which is after the acquisition of SNP Austria minorities and the final 
+dividend payment, rising to €5.8m a year later. In addition, there is a $1.6m (€1.1m) earnout 
+outstanding relating to the GL acquisition.  
+Exhibit 6: Forecasts 
+(€000s) 2011 2012 2013 2014e 2015e 2016e 
+Revenue             
+Professional services 19,139 20,165 18,696 23,080 25,194 26,884 
+Software 7,492 6,992 4,480 8,000 10,000 11,000 
+Group revenue  26,631 27,157 23,536 31,080 35,194 37,884 
+Growth (%) 20.6 2.0 (13.3) 32.1 13.2 7.6 
+Professional services contribution 1,557 1,634 (1,160) 1,154 2,016 2,420 
+Software contribution 4,549 3,080 580 2,800 4,250 5,500 
+Non-segment-related expenses (1,766) (1,986) (2,339) (2,573) (2,895) (3,068) 
+Other operating income & other taxes 309 223 205 226 254 269 
+Adjusted operating profit 4,649 2,951 (2,714) 1,607 3,625 5,120 
+Operating profit margin (%) 17.5 10.9 (11.5) 5.2 10.3 13.5 
+Net interest 12 20 (85) (50) (25) 0 
+Profit before tax norm 4,661 2,972 (2,799) 1,557 3,600 5,120 
+Associates 0 (107) 0 0 0 0 
+Profit before tax 4,661 2,865 (2,799) 1,557 3,600 5,120 
+Taxation (1,566) (947) 477 (467) (1,080) (1,536) 
+Non-controlling interests (106) (127) (84) 0 0 0 
+Net income 2,989 1,791 (2,405) 1,090 2,520 3,584 
+Adjusted EPS (c) 88.0 55.7 (64.7) 29.1 67.4 95.9 
+P/E – adjusted EPS 15.9 25.1 N/A 48.0 20.8 14.6 
+Source: SNP (historicals), Edison Investment Research (forecasts) 
+Sensitivities: High exposure to SAP products 
+SNP’s customers are mainly large corporations, often multinationals, and economic cycles have an 
+effect on these businesses. Contracts can be lumpy and the 10 biggest customers generated c €8m 
+or c 35% revenues in FY13, and the largest customer generated 6.9% of revenues in FY13 (FY12: 
+14.7%). Siemens generated €4m revenues in FY12, falling to €1.3m in FY13 as two large projects 
+were completed. Nevertheless, we note the resilience of the business in the years following the 
+financial crisis, which partly reflects the ongoing requirement for transformation projects regardless 
+of the economic backdrop. SNP has a reliance on SAP’s end-market, though SNP seeks to align its 
+solutions to the ERP market as a whole. 
+We note the following sensitivities: 
+ Economic downturn. Cost-reduction measures and investment freezes for IT projects by 
+customers can lead to project delays and/or cancellations.  
+ Competition. Other providers may offer better or more cost-effective solutions. However, SNP 
+counters this risk through the development of new products and the continuous refinement and 
+improvement of its existing products. The complexity of SNP products and processes has 
+meant that SNP has, thus far, been able to maintain an innovative advantage over its 
+competitors with the general possibility of imitation being limited.  
+ Technological change. SNP’s performance largely depends on whether it succeeds in 
+adjusting its products to changes in the market. Earnings may be adversely affected if 
+technologies prove to be dysfunctional, are not well received on the market or are not launched 
+on the market at the right time. The growth of ERP solutions in the cloud provides both a threat 
+SNP Schneider-Neureither & Partner | 15 January 2015 11 
+and an opportunity for the group, as cloud products are typically less customised than 
+traditional solutions but they could add to the complexity of ERP landscapes.  
+ Project risks. Project implementation in the ERP transformation market often requires a 
+considerable deployment of resources by customers. This is subject to a variety of risks, which 
+are often beyond customers’ control.  
+ SAP dependency. The success of SNP products and consulting services is strongly linked to 
+the popularity and market penetration of the standard ERP software of SAP. There is a risk that 
+SAP solutions may be supplanted by competing products. However, the risk of a sudden 
+collapse in the market base is low, given the high costs and the time needed to install new 
+standard business software, 
+ Personnel. The loss of key personnel is a significant risk factor. Competition for skilled IT 
+professionals could lead to shortages.  
+ Acquisition risk. Implementation risk in the acquisition strategy.  
+SNP Schneider-Neureither & Partner | 15 January 2015 12 
+Valuation: Software-led growth and margin recovery 
+SNP has a strong track record of profitability, growth and cash generation. Margins surpassed 20% 
+in 2008 and stayed above 20% for three years. While there was a dip into the red in FY13, as the 
+group restructured its sales team, SNP is now back on track, expanding into the US, and its new 
+emphasis on software could potentially drive margins back above 20%. If SNP can successfully 
+develop T-B into the industry standard, with the ability to handle any-to-any transformations, the 
+stock should then command a leadership valuation in our view. 
+We highlight the following points on the group’s valuation: 
+ Traditional valuation measures. In traditional valuation terms, the stock trades on 48.0x our 
+EPS forecasts in FY14, falling to 20.8x in FY15 and to 14.6x in FY16. 
+ Peer comparison. The stock trades on 1.4x FY15 revenues (above its peers’ average of 0.6x) 
+and 11.5x FY15 EBITDA (above its UK peers’ average of 6.5x). The premium reflects attractive 
+growth prospects and the significant potential for margin recovery. 
+Exhibit 7: Peers 
+  Market cap EV/sales EV/EBITDA P/E 
+ Price Local curr (m) Year 1 Year 2 Year 1 Year 2 Year 1 Year 2 
+SNP  14.00 52 1.59 1.41 20.8 11.5 48.0 20.8 
+1) Specialist SAP transformation consultants in Germany      
+Realtech 2.98 16 0.44 0.41 23.0 5.8 N/A 19.3 
+All for One Steeb 33.90 169 0.73 0.68 7.8 7.1 19.1 17.3 
+KPS 5.75 196 N/A N/A N/A N/A N/A N/A 
+2) Small consulting companies / VARs with a significant own software strategy    
+First Derivatives (£) 1271.00 274 3.4 2.9 19.5 15.2 31.1 25.9 
+Cenit (€) 11.69 98 0.6 0.6 6.3 5.9 15.4 14.3 
+K3 (£) 210.00 67 1.3 1.1 11.5 8.2 20.2 12.7 
+Prodware (€) 6.73 55 0.5 0.5 2.9 2.7 5.4 4.0 
+Medians (categories 1 & 2 above) 0.65 0.62 9.7 6.5 19.1 15.8 
+3) Major ERP providers         
+SAP (€) 57.08 70,123 4.1 3.7 11.6 10.6 16.5 15.6 
+Oracle ($) 42.93 188,521 4.5 4.3 8.4 8.2 14.5 13.5 
+Sage (£) 461.90 4,974 3.8 3.6 12.7 12.0 18.3 16.7 
+Microsoft ($) 46.05 379,592 3.2 3.0 9.2 8.5 16.4 14.6 
+Medians    3.94 3.68 10.4 9.5 16.5 15.1 
+4) Large systems integrators        
+Accenture 88.86 59,154 1.79 1.70 10.7 10.2 18.6 17.0 
+Atos 64.28 6,492 0.72 0.63 6.8 5.6 14.8 12.4 
+Cap Gemini 59.11 9,670 0.91 0.88 8.6 7.9 16.8 15.0 
+CGI group 44.37 13,925 1.51 1.47 8.6 8.3 13.9 13.0 
+Cognizant 54.08 32,930 2.78 2.34 13.5 11.5 21.4 18.6 
+CSC 62.99 8,850 0.76 0.75 4.5 4.4 13.7 12.6 
+Hewlett-Packard 39.22 71,933 0.70 0.70 5.4 5.5 9.9 9.5 
+IBM 155.28 153,674 2.03 2.14 8.0 7.7 9.7 9.3 
+Medians   1.21 1.17 8.3 7.8 14.4 12.8 
+Source: Bloomberg, Edison Investment Research. Note: Pricing as at the close on 14 January 2015. 
+ FCF yield. SNP generated a free cash outflow of €3.4m in FY13, after a €0.8m inflow in FY12 
+(which represents a FCF yield of 1.5%) and €3.8m in FY11 (7.4% yield). We forecast FCF to 
+rise to c €1.1m in FY14, rising to €2.4m in FY15 and €3.4m in FY16.These numbers translate 
+to FCF yields of c 2% in FY14, c 5% in FY15 and c 7% in FY16.  
+ Discounted cash flow valuation. Based on our forecasts and an 18.4% long-term margin 
+target, a weighted average cost of capital (WACC) of 12%, and a 2% terminal growth rate, our 
+DCF model values the shares at €15.03, or 7% above the current price. A 1% rise in the WACC 
+would reduce the valuation to €13.54, while a 1% cut in the WACC would lift the valuation to 
+€16.86. Discounting back from our forecasts implies that the market is attributing a break-even 
+WACC of 12.7% to the stock. Our DCF scenario analysis, below, suggests the stock is 
+SNP Schneider-Neureither & Partner | 15 January 2015 13 
+attractively priced based on our conservative forecasts and WACC, with the risk on upside 
+given the strong software growth prospects and potential to beat forecasts. 
+Exhibit 8: DCF scenario analysis (stock price valuation under a range of scenarios)  
+  WACC 11% WACC 12% WACC 13% 
+  Long-term operating margin targets 
+Revenue 
+scenarios 
+(see notes 
+below) 
+Base scenario €15.13 €16.86 €18.37 €13.51 €15.03 €16.34 €12.19 €13.54 €14.69 
+Medium-term outperformance €17.97 €20.21 €22.21 €16.01 €18.00 €19.74 €14.42 €16.20 €17.74 
+Sustained outperformance €34.19 €38.75 €43.08 €29.75 €33.72 €37.48 €26.19 €29.69 €32.98 
+Source: Edison Investment Research. Note: WACC is weighted average cost of capital. Revenue scenarios as follows: 
+Base scenario: compound group revenue growth of 14.5% over FY13-17 and growth fading thereafter down to 2%. 
+Medium-term outperformance: compound group revenue growth of 20% over FY13-17, similar growth to base scenario thereafter. 
+Sustained outperformance: compound group revenue growth of 20% over FY13-24, similar growth to base scenario thereafter.  
+SNP Schneider-Neureither & Partner | 15 January 2015 14 
+Exhibit 9: Financial summary 
+ €000s 2011 2012 2013 2014e 2015e 2016e 
+Year end 31 December   IFRS IFRS IFRS IFRS IFRS IFRS 
+PROFIT & LOSS         
+Revenue   26,631  27,157  23,536  31,080  35,194  37,884  
+Cost of sales  0 0 0 0 0 0 
+Gross Profit  26,631 27,157 23,536 31,080 35,194 37,884 
+Adjusted EBITDA   5,345 3,714 (1,972) 2,384 4,314 5,789 
+Adjusted Operating Profit    4,649 2,951 (2,714) 1,607 3,625 5,120 
+Amortisation of acquired intangibles  0 0 0 0 0 0 
+Exceptionals  0 0 0 0 0 0 
+Associates  0 (107) 0 0 0 0 
+Operating Profit  4,649 2,845 (2,714) 1,607 3,625 5,120 
+Net Interest  12 20 (85) (50) (25) 0 
+Profit Before Tax (norm)   4,661 2,972 (2,799) 1,557 3,600 5,120 
+Profit Before Tax (FRS 3)   4,661 2,865 (2,799) 1,557 3,600 5,120 
+Tax  (1,566) (947) 477 (467) (1,080) (1,536) 
+Profit After Tax (norm)  3,095 2,025 (2,322) 1,090 2,520 3,584 
+Profit After Tax (FRS 3)  3,095 1,918 (2,322) 1,090 2,520 3,584 
+Minority interest  (106) (127) (84) 0 0 0 
+Adjustments for normalised earnings  0 0 0 0 0 0 
+Net income (norm)  2,989 1,897 (2,405) 1,090 2,520 3,584 
+Net income (FRS 3)  2,989 1,791 (2,405) 1,090 2,520 3,584 
+                Average No of Shares Outstanding (m)  3.4 3.4 3.7 3.7 3.7 3.7 
+EPS - normalised (c)   88.0 55.7 (64.7) 29.1 67.4 95.9 
+EPS - normalised & fully diluted (c)   88.0 55.7 (64.7) 29.1 67.4 95.9 
+EPS - FRS 3 (c)   88.0 52.5 (64.7) 29.1 67.4 95.9 
+Dividend per share (c)  58.33 24.00 8.00 10.00 20.00 30.00 
+        Gross Margin (%)  100.0 100.0 100.0 100.0 100.0 100.0 
+EBITDA Margin (%)  20.1 13.7 -8.4 7.7 12.3 15.3 
+Adjusted Operating Margin (%)  17.5 10.9 -11.5 5.2 10.3 13.5 
+        BALANCE SHEET        
+Fixed Assets   4,271 4,236 7,759 7,603 7,618 7,707 
+Intangible Assets  2,278 2,327 5,194 5,194 5,194 5,194 
+Tangible Assets  1,820 1,486 1,070 913 928 1,017 
+Other  173 422 1,496 1,496 1,496 1,496 
+Current Assets   13,621 18,316 16,145 19,351 22,970 26,671 
+Stocks  0 0 0 0 0 0 
+Debtors  6,687 7,309 9,105 12,024 13,615 14,656 
+Cash  6,695 10,152 6,355 6,642 8,670 11,330 
+Current Liabilities   (4,714) (4,781) (5,804) (8,984) (10,626) (11,626) 
+Creditors  (4,714) (4,781) (5,204) (8,384) (10,026) (11,026) 
+Short term borrowings  0 0 (600) (600) (600) (600) 
+Long Term Liabilities   (781) (772) (4,338) (4,338) (4,338) (4,338) 
+Long term borrowings  0 0 (2,250) (2,250) (2,250) (2,250) 
+Other long term liabilities  (781) (772) (2,088) (2,088) (2,088) (2,088) 
+Net Assets   12,397 16,998 13,762 13,632 15,623 18,414 
+        CASH FLOW        
+Operating Cash Flow   5,521 3,022 (2,120) 2,229 4,138 5,599 
+Net Interest   30 42 4 (50) (25) 0 
+Tax  (1,043) (1,826) (1,062) (436) (1,008) (1,434) 
+Capex  (663) (465) (230) (622) (704) (758) 
+Acquisitions/disposals  (135) (107) (2,267) (500) 0 0 
+Shares issued  (210) 4,839 (35) 0 0 0 
+Dividends  (1,926) (2,048) (937) (334) (374) (748) 
+Net Cash Flow  1,573 3,457 (6,647) 288 2,027 2,660 
+Opening net debt/(cash)   (5,121) (6,695) (10,152) (3,505) (3,792) (5,820) 
+HP finance leases initiated  0 0 0 0 0 0 
+Other  0 0 0 0 0 () 
+Closing net debt/(cash)   (6,695) (10,152) (3,505) (3,792) (5,820) (8,480) 
+Source: SNP (historicals), Edison Investment Research (forecasts) 
+SNP Schneider-Neureither & Partner | 15 January 2015 15 
+Contact details Revenue by geography 
+Dossenheimer Landstraße 100  
+69121 Heidelberg  
+Germany 
+Phone: +49 6221 6425 - 0  
+Fax: +49 6221 6425 - 20  
+www.snp-ag.com/eng/ 
+CAGR metrics Profitability metrics Balance sheet metrics Sensitivities evaluation 
+EPS 2012-16e 14.6% 
+EPS 2014-16e 81.4% 
+EBITDA 2012-16e 11.7% 
+EBITDA 2014-16e 55.8% 
+Sales 2012-16e 8.7% 
+Sales 2014-16e 10.4% 
+ROCE 2015e 25.8% 
+Avg ROCE 2012-16e 16.0% 
+ROE 2015e 16.1% 
+Gross margin 2015e N/A 
+Operating margin 2015e 10.3% 
+Gr mgn / Op mgn 2015e N/A 
+Gearing 2015e N/A 
+Interest cover 2015e N/A 
+CA/CL 2015e 2.2x 
+Stock days 2015e N/A 
+Debtor days 2015e 141.2 
+Creditor days 2015e 83.8 
+Litigation/regulatory  
+Pensions  
+Currency  
+Stock overhang  
+Interest rates  
+Oil/commodity prices  
+Management team  
+Chief Executive Officer: Dr Andreas Schneider-Neureither Chief Financial Officer: Mr Joerg Vierfuss 
+Dr Andreas Schneider-Neureither is CEO and chairman of the management 
+board. He is responsible for strategy, consulting and development as well as 
+sales and marketing at the company. He acts as managing director of SNP 
+(Schweiz) AG. Furthermore, he also serves on the supervisory board at 
+Casadomus AG and is member of administrative council at VHV-Group, 
+Hannover. Dr Schneider-Neureither holds a degree in physics. 
+Mr Joerg Vierfuss was appointed CFO in July 2013, and has been with SNP 
+since summer 2012. In his role as authorised signatory and commercial director, 
+his responsibilities include the preparation of the quarterly and annual financial 
+statements. Prior to joining SNP, Mr Vierfuss was employed by the Freudenberg 
+Group as a commercial director. Mr Vierfuss holds a degree in business 
+administration. 
+Chief Operating Officer: Henry Göttler Chairman of the Supervisory Board: Dr Michael Drill 
+Henry Göttler was appointed COO in July 2014. He is responsible for all of the 
+company’s operating matters. Prior to SNP, Mr Göttler was a board member of 
+Intershop AG, and before that he was member of the executive board of the 
+former Saperion AG. He studied sinology, mathematics and business 
+administration. 
+Dr Michael Drill was elected chairman of the supervisory board in June 2014, 
+having been a member of the SNP supervisory board since April 2011. He is 
+CEO of Lincoln International AG and is an expert in the financial services sector 
+with strong global connections. He has a doctorate in corporate finance. 
+Principal shareholders (%) 
+Dr Andreas Schneider-Neureither (CEO) 20.03 
+Ingrid Weispfenning 12.09 
+Christiane Weispfenning 7.46 
+Invesco 6.72 
+Inflection Point 6.58 
+Allianz Global Investors 5.46 
+Fidelity Worldwide Investments 5.13 
+HANSA INVEST 3.54 
+ALTO INVEST 3.37 
+Kabouter Management 3.17 
+Universal-Investment 2.47 
+Henderson Global Investors 2.40 
+Companies named in this report 
+All for One Steeb (ETR:A1OS), Cenit (ETR:ESH), K3 (LON:KBT), First Derivatives (LON:FDP), KPS (ETR:KSC), Prodware ( EPA:ALPRO), Realtech (ETR:RTC), 
+Oracle (NYSE:ORCL), SAP (ETR:SAP) 
+Germany Austria Switzerland US South Africa Others
+SNP Schneider-Neureither & Partner | 15 January 2015 16 
+Edison, the investment intelligence firm, is the future of investor interaction with corporates. Our team of over 100 analysts and investment professionals work with leading companies, fund managers and investment banks 
+worldwide to support their capital markets activity. We provide services to more than 400 retained corporate and investor clients from our offices in London, New York, Frankfurt, Sydney and Wellington. Edison is 
+authorised and regulated by the Financial Conduct Authority (www.fsa.gov.uk/register/firmBasicDetails.do?sid=181584). Edison Investment Research (NZ) Limited (Edison NZ) is the New Zealand subsidiary of Edison. 
+Edison NZ is registered on the New Zealand Financial Service Providers Register (FSP number 247505) and is registered to provide wholesale and/or generic financial adviser services only. Edison Investment Research 
+Inc (Edison US) is the US subsidiary of Edison and is regulated by the Securities and Exchange Commission. Edison Investment Research Limited (Edison Aus) [46085869] is the Australian subsidiary of Edison and is not 
+regulated by the Australian Securities and Investment Commission. Edison Germany is a branch entity of Edison Investment Research Limited [4794244]. www.edisongroup.com 
+DISCLAIMER 
+Copyright 2015 Edison Investment Research Limited. All rights reserved. This report has been commissioned by SNP Schneider-Neureither & Partner and prepared and issued by Edison for publication globally. All 
+information used in the publication of this report has been compiled from publicly available sources that are believed to be reliable, however we do not guarantee the accuracy or completeness of this report. Opinions 
+contained in this report represent those of the research department of Edison at the time of publication. The securities described in the Investment Research may not be eligible for sale in all jurisdictions or to certain 
+categories of investors. This research is issued in Australia by Edison Aus and any access to it, is intended only for "wholesale clients" within the meaning of the Australian Corporations Act. The Investment Research is 
+distributed in the United States by Edison US to major US institutional investors only. Edison US is registered as an investment adviser with the Securities and Exchange Commission. Edison US relies upon the "publishers’ 
+exclusion" from the definition of investment adviser under Section 202(a)(11) of the Investment Advisers Act of 1940 and corresponding state securities laws. As such, Edison does not offer or provide personalised advice. 
+We publish information about companies in which we believe our readers may be interested and this information reflects our sincere opinions. The information that we provide or that is derived from our website is not 
+intended to be, and should not be construed in any manner whatsoever as, personalised advice. Also, our website and the information provided by us should not be construed by any subscriber or prospective subscriber as 
+Edison’s solicitation to effect, or attempt to effect, any transaction in a security. The research in this document is intended for New Zealand resident professional financial advisers or brokers (for use in their roles as 
+financial advisers or brokers) and habitual investors who are “wholesale clients” for the purpose of the Financial Advisers Act 2008 (FAA) (as described in sections 5(c) (1)(a), (b) and (c) of the FAA). This is not a solicitation 
+or inducement to buy, sell, subscribe, or underwrite any securities mentioned or in the topic of this document. This document is provided for information purposes only and should not be construed as an offer or solicitation 
+for investment in any securities mentioned or in the topic of this document. A marketing communication under FCA rules, this document has not been prepared in accordance with the legal requirements designed to 
+promote the independence of investment research and is not subject to any prohibition on dealing ahead of the dissemination of investment research. Edison has a restrictive policy relating to personal dealing. Edison 
+Group does not conduct any investment business and, accordingly, does not itself hold any positions in the securities mentioned in this report. However, the respective directors, officers, employees and contractors of 
+Edison may have a position in any or related securities mentioned in this report. Edison or its affiliates may perform services or solicit business from any of the companies mentioned in this report. The value of securities 
+mentioned in this report can fall as well as rise and are subject to large and sudden swings. In addition it may be difficult or not possible to buy, sell or obtain accurate information about the value of securities mentioned in 
+this report. Past performance is not necessarily a guide to future performance. Forward-looking information or statements in this report contain information that is based on assumptions, forecasts of future results, estimates 
+of amounts not yet determinable, and therefore involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of their subject matter to be materially 
+different from current expectations. For the purpose of the FAA, the content of this report is of a general nature, is intended as a source of general information only and is not intended to constitute a recommendation or 
+opinion in relation to acquiring or disposing (including refraining from acquiring or disposing) of securities. The distribution of this document is not a “personalised service” and, to the extent that it contains any financial 
+advice, is intended only as a “class service” provided by Edison within the meaning of the FAA (ie without taking into account the particular financial situation or goals of any person). As such, it should not be relied upon in 
+making an investment decision. To the maximum extent permitted by law, Edison, its affiliates and contractors, and their respective directors, officers and employees will not be liable for any loss or damage arising as a 
+result of reliance being placed on any of the information contained in this report and do not guarantee the returns on investments in the products discussed in this publication. FTSE International Limited (“FTSE”) © FTSE 
+2015. “FTSE®” is a trade mark of the London Stock Exchange Group companies and is used by FTSE International Limited under license. All rights in the FTSE indices and/or FTSE ratings vest in FTSE and/or its 
+licensors. Neither FTSE nor its licensors accept any liability for any errors or omissions in the FTSE indices and/or FTSE ratings or underlying data. No further distribution of FTSE Data is permitted without FTSE’s express 
+written consent. 
+Frankfurt +49 (0)69 78 8076 960 
+Schumannstrasse 34b 
+60325 Frankfurt 
+Germany 
+London +44 (0)20 3077 5700 
+280 High Holborn 
+London, WC1V 7EE 
+United Kingdom 
+New York +1 646 653 7026 
+245 Park Avenue, 39th Floor 
+10167, New York 
+Sydney +61 (0)2 9258 1161 
+Level 25, Aurora Place 
+88 Phillip St, Sydney 
+NSW 2000, Australia 
+Wellington +64 (0)48 948 555 
+Level 15, 171 Featherston St 
+Wellington 6011 
+New Zealand 
+	Investment case: Huge transformation opportunities
+	Q3 results and forecasts: Guidance maintained
+	Valuation: Pace of margin recovery could surprise
+	Investment summary: Greater emphasis on software
+	Company description: ERP transformation experts
+	Financials: Strong history of growth and profitability
+	Sensitivities: High exposure to SAP products
+	Valuation: Attractive DCF valuation on conservative inputs
+	Company description: ERP transformation experts
+	Strategy
+	Group structure
+	Routes to market
+	What is ERP transformation?
+	The enterprise resource planning (ERP) software market
+	Competitive environment
+	Financials: Reverting to a strong growth trend
+	Business model: Direct and via partners
+	Q3 results: Guidance maintained for FY14
+	Forecasts
+	Sensitivities: High exposure to SAP products
+	Valuation: Software-led growth and margin recovery
